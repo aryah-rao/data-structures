@@ -1,5 +1,5 @@
 //=================================
-// Andrew Angulo, Ethan Tecson and Aryah Rao
+// Aryah Rao
 // usecase.h
 // Feb 2024
 // This file contains the header for usecase.cpp.

@@ -1,5 +1,5 @@
 //=================================
-// Khoa Ho, Phan Anh Le and Aryah Rao
+// Aryah Rao
 // usecase.cpp
 // March 2024
 // This file contains the solution for the hexidecimal problem.

@@ -1,5 +1,5 @@
 //=================================
-// Andrew Angulo, Ethan Tecson and Aryah Rao
+// Aryah Rao
 // minqueue.cpp
 // Feb 2024
 // This file contains the class template implementation for min-priority queue.

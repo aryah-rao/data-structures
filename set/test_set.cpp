@@ -2,7 +2,7 @@
 //  test_set.cpp
 //  CS 271 Set Project: Test File
 //
-//  Created by Dr. Stacey Truex, Aryah Rao and John Yoon
+// Aryah Rao
 //
 #include <iostream>
 #include <chrono>

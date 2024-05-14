@@ -1,5 +1,5 @@
 //========================================================
-// Khoa Ho, Phan Anh Le and Aryah Rao
+// Aryah Rao
 // Based on test_bst_example.cpp written by Dr. Stacey Truex
 // test_bst.cpp
 // March 2024

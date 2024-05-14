@@ -1,5 +1,5 @@
 //=================================
-// Andrew Angulo, Ethan Tecson and Aryah Rao
+// Aryah Rao
 // usecase.cpp
 // Feb 2024
 // This file contains the solution for the sliding window problem.

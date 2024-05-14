@@ -1,5 +1,5 @@
 //=================================
-// Andrew Angulo, Ethan Tecson and Aryah Rao
+// Aryah Rao
 // minqueue.h
 // Feb 2024
 // This file contains the class template header for min-priority queue.

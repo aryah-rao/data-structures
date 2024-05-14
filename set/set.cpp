@@ -1,5 +1,5 @@
 //=================================
-// Aryah Rao and John Yoon
+// Aryah Rao
 // set.cpp
 // Jan 2024
 // This file contains the class methods for the templated Set class

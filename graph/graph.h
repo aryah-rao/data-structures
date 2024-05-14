@@ -1,5 +1,5 @@
 //=================================
-// Aryah Rao, Lam Do, Phuong Le
+// Aryah Rao
 // graph.h
 // April 2024
 // This file contains the class header for the templated Graph class.

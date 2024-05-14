@@ -1,5 +1,5 @@
 //=================================
-// Khoa Ho, Phan Anh Le and Aryah Rao
+// Aryah Rao
 // bst.h
 // March 2024
 // This file contains the class header for the templated Binary Search Tree Class.

@@ -1,5 +1,5 @@
 //=================================
-// Aryah Rao, Lam Do, Phuong Le
+// Aryah Rao
 // Based on test_graph.example.cpp written by Dr. Stacey Truex
 // test_graph.cpp
 // April 2024

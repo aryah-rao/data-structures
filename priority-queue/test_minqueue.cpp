@@ -1,5 +1,5 @@
 //=================================
-// Andrew Angulo, Ethan Tecson and Aryah Rao
+// Aryah Rao
 // test_minqueue.cpp
 // Feb 2024
 // This file contains the test cases for priory queue, based on Dr. Truex's test_minqueue_example.cpp file.

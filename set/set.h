@@ -1,5 +1,5 @@
 //=================================
-// Aryah Rao and John Yoon
+// Aryah Rao
 // set.h
 // Jan 2024
 // This file contains the class header for the templated Set class

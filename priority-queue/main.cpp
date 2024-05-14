@@ -1,5 +1,5 @@
 //=================================
-// Andrew Angulo, Ethan Tecson and Aryah Rao
+// Aryah Rao
 // main.cpp
 // Feb 2024
 // This file contains the main file for the sliding window problem.

@@ -1,5 +1,5 @@
 //=================================
-// Lam Do and Aryah Rao
+// Aryah Rao
 // main.cpp
 // Feb 2024
 // This file read Rush Hour board configurations and store them in a hash table

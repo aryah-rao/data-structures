@@ -1,5 +1,5 @@
 //=================================
-// Aryah Rao, Lam Do, Phuong Le
+// Aryah Rao
 // graph.cpp
 // April 2024
 // This file implements the templated Graph Class.

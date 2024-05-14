@@ -1,5 +1,5 @@
 //=================================
-// Lam Do and Aryah Rao
+// Aryah Rao
 // hash_table.h
 // Feb 2024
 // This file contains the class header for the templated Element and HashTable Class.

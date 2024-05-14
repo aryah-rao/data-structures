@@ -1,5 +1,5 @@
 //=================================
-// Khoa Ho, Phan Anh Le and Aryah Rao
+// Aryah Rao
 // bst.cpp
 // March 2024
 // This file implements the templated Binary Search Tree Class.

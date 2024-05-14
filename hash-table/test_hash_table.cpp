@@ -1,5 +1,5 @@
 //========================================================
-// Lam Do and Aryah Rao
+// Aryah Rao
 // Based on test_hashtable_example.cpp written by Dr. Stacey Truex
 // test_hash_table.cpp
 // Feb 2024

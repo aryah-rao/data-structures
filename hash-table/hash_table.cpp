@@ -1,5 +1,5 @@
 //=================================
-// Lam Do and Aryah Rao
+// Aryah Rao
 // hash_table.cpp
 // Feb 2024
 // This file implements the templated Element and HashTable Class.
