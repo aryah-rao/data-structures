@@ -1,45 +1,34 @@
-# Data Structures
+# Data Structures and Algorithms
 
-This repository is a curated collection of various data structure implementations, designed to provide a comprehensive resource for learning and utilizing fundamental data structures in your projects. Each data structure is implemented in a separate directory, making it easy to navigate and explore the code.
+This repository contains a collection of data structure and algorithm implementations in C++, designed to provide a comprehensive resource for learning and utilizing fundamental concepts in your projects. Each data structure and algorithm is implemented in a separate directory, making it easy to navigate and explore the code.
 
 ## Table of Contents
-
-- [Linked List](#linked-list)
-- [Stack](#stack)
-- [Queue](#queue)
-- [Binary Search Tree](#binary-search-tree)
+- [Set](#set)
+- [Priority Queue](#priority-queue)
 - [Hash Table](#hash-table)
-- [Heap](#heap)
 - [Graph](#graph)
+- [Binary Search Tree](#binary-search-tree)
 
-## Linked List
+## Set
+The `set` directory contains an implementation of a Set data structure using Linked Lists. It provides various operations such as insertion, removal, cardinality, emptiness check, element existence, equality comparison, subset check, union, intersection, and difference. The Set implementation is templated, allowing it to store elements of any data type.
 
-The `linked-list` directory contains an implementation of a singly linked list. It provides basic operations such as insertion, deletion, searching, and traversal. The linked list is a dynamic data structure that allows efficient insertion and deletion of elements.
-
-## Stack
-
-The `stack` directory includes an implementation of a stack data structure. It supports the fundamental stack operations: push, pop, and peek. The stack follows the Last-In-First-Out (LIFO) principle and is commonly used for tasks such as expression evaluation and backtracking.
-
-## Queue
-
-The `queue` directory provides an implementation of a queue data structure. It offers the basic queue operations: enqueue, dequeue, and front. The queue follows the First-In-First-Out (FIFO) principle and is often used for tasks such as breadth-first search and task scheduling.
-
-## Binary Search Tree
-
-The `binary-search-tree` directory contains an implementation of a binary search tree (BST). It supports operations like insertion, deletion, search, and traversal (inorder, preorder, postorder). BSTs are efficient for searching and maintain a sorted order of elements.
+## Priority Queue
+The `priority-queue` directory includes an implementation of a Min Priority Queue data structure. It supports operations like insertion, minimum element retrieval, minimum element extraction, decreasing key, min heapify, building a min heap, and heap sort. The Min Priority Queue is templated, enabling it to store elements of any data type. Additionally, it includes a solution for the Sliding Window Problem using the Min Priority Queue.
 
 ## Hash Table
-
-The `hash-table` directory includes an implementation of a hash table data structure. It provides fast insertion, deletion, and retrieval of key-value pairs using a hash function. Hash tables are commonly used for efficient lookups and caching.
-
-## Heap
-
-The `heap` directory offers an implementation of a heap data structure. It includes both min-heap and max-heap variants. Heaps are useful for priority queue operations and algorithms like Dijkstra's shortest path.
+The `hash-table` directory provides an implementation of a Hash Table data structure along with an analysis of different hash functions. The Hash Table is implemented as a vector of doubly linked lists, where each element is represented by a templated `Element` class that stores data and a corresponding key. It supports insertion, removal, and membership checking operations. The project includes three different hash functions for performance comparison and analysis.
 
 ## Graph
+The `graph` directory contains an implementation of a Graph data structure. The Graph is implemented as a templated class, allowing it to store elements of any data type for both the key and the associated data. It provides various operations such as constructing a graph from keys, data, and edges, reachability checking, breadth-first search (BFS), shortest path finding, edge classification, BFS tree printing, and depth-first search (DFS).
 
-The `graph` directory contains an implementation of a graph data structure. It supports various graph operations, such as adding vertices and edges, breadth-first search (BFS), depth-first search (DFS), and shortest path algorithms. Graphs are essential for modeling relationships and solving problems in various domains.
+## Binary Search Tree
+The `binary-search-tree` directory includes an implementation of a Binary Search Tree (BST) data structure. The BST is implemented as a templated class, supporting elements of any data type for both the key and the associated data. It provides operations like insertion, removal, data retrieval, maximum and minimum element finding, successor finding, in-order traversal, and trimming the BST within a specified key range. Additionally, it includes a use case for converting binary numbers to their hexadecimal representation using the BST.
 
-Each data structure directory includes its own README file with detailed explanations, usage instructions, and examples. Feel free to explore the code, contribute improvements, and use these implementations in your own projects.
+Each data structure and algorithm directory contains its own README file with detailed explanations, usage instructions, and examples. The implementations are thoroughly tested using comprehensive test suites to ensure correctness and robustness.
 
-Happy coding!
+Feel free to explore the code, contribute improvements, and utilize these implementations in your own projects. Happy coding!
+
+## Contributors
+- Dr. Stacey Truex
+- Dr. Matt Kretchmar
+- Aryah Rao
