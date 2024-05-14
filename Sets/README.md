@@ -57,4 +57,4 @@ where n is the number of elements in the Set.
 - Dr. Stacey Truex
 - Aryah Rao
 
-Feel free to use, modify, and distribute this Set implementation as per the terms of the license.
+Feel free to use, modify, and distribute this Set implementation.
