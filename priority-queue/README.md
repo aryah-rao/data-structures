@@ -61,4 +61,8 @@ where n is the number of elements in the Min Priority Queue.
 - Dr. Stacey Truex
 - Aryah Rao
 
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
 Feel free to use, modify, and distribute this Min Priority Queue implementation.

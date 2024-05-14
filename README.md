@@ -32,3 +32,6 @@ Feel free to explore the code, contribute improvements, and utilize these implem
 - Dr. Stacey Truex
 - Dr. Matt Kretchmar
 - Aryah Rao
+
+## License
+This repository is licensed under the [MIT License](LICENSE).

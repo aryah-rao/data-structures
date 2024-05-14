@@ -54,4 +54,8 @@ The Graph implementation provides the following time complexities for various op
 - Dr. Stacey Truex
 - Aryah Rao
 
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
 Feel free to use, modify, and distribute this Graph implementation.

@@ -58,4 +58,8 @@ These metrics can be used to evaluate the performance and distribution of the ha
 - Dr. Stacey Truex
 - Aryah Rao
 
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
 Feel free to use, modify, and distribute this Hash Table implementation.
