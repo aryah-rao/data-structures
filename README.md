@@ -9,7 +9,7 @@ This repository contains a collection of data structure and algorithm implementa
 - [Graph](#graph)
 - [Binary Search Tree](#binary-search-tree)
 
-## Set
+## Set (Linked List)
 The `set` directory contains an implementation of a Set data structure using Linked Lists. It provides various operations such as insertion, removal, cardinality, emptiness check, element existence, equality comparison, subset check, union, intersection, and difference. The Set implementation is templated, allowing it to store elements of any data type.
 
 ## Priority Queue
