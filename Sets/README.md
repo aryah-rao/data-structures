@@ -1,6 +1,6 @@
 # Set Implementation in C++
 
-This project provides an implementation of a Set data structure in C++. The Set is implemented as a templated class, allowing it to store elements of any data type.
+This project provides an implementation of a Set data structure in C++ (using Linked Lists). The Set is implemented as a templated class, allowing it to store elements of any data type.
 
 ## Features
 
