@@ -50,7 +50,7 @@ The `analyze()` member function of the `HashTable` class generates a CSV file na
 - Maximum slot count
 - Standard deviation of the slot counts
 
-These metrics can be used to evaluate the performance and distribution of the hash functions.
+These metrics can be used to evaluate the performance and distribution of the hash functions. 
 
 ## Contributors
 
