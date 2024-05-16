@@ -40,7 +40,7 @@ To run the tests, compile and run the `test_minqueue.cpp` file along with the `m
 
 The project includes a solution for the Sliding Window Problem using the Min Priority Queue. The sliding window function takes an array, its length, and the window size as input and returns a string representing the minimum elements within each window cycle.
 
-The implementation of the sliding window function can be found in the `usecase.cpp` file, and its header is declared in the `usecase.h` file.
+The implementation of the sliding window function can be found in the `usecase.cpp` file, and its header is declared in the `usecase.h` file. 
 
 ## Time Complexity
 
