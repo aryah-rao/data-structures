@@ -1,6 +1,6 @@
 # Graph Implementation in C++
 
-This project provides an implementation of a Graph data structure in C++. The Graph is implemented as a templated class, allowing it to store elements of any data type for both the key and the associated data.
+This project provides an implementation of a Graph data structure in C++. The Graph is implemented as a templated class, allowing it to store elements of any data type for both the key and the associated data. 
 
 ## Features
 
